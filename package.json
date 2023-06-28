@@ -1,0 +1,27 @@
+{
+  "name": "alx-frontend-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "babel-jest": "^29.5.0",
+    "eslint": "^8.43.0",
+    "jest": "^29.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/FaithOzoanieke/alx-frontend-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FaithOzoanieke/alx-frontend-javascript/issues"
+  },
+  "homepage": "https://github.com/FaithOzoanieke/alx-frontend-javascript#readme"
+}

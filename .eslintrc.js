@@ -27,4 +27,10 @@ module.exports = {
       excludedFiles: 'babel.config.js',
     },
   ],
+  // Added this
+
+  'import/prefer-default-export': [
+    'off' | 'warn' | 'error',
+    { target: 'single' | 'any' }, // default is "single"
+  ],
 };
